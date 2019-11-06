@@ -6,6 +6,8 @@
 <img src="https://github.com/DonLIs/NoteBookDemo/blob/master/01.png" width="300" />
 <img src="https://github.com/DonLIs/NoteBookDemo/blob/master/02.png" width="300" />
 
+![01](https://github.com/DonLIs/NoteBookDemo/blob/master/01.png)
+
 _功能：_<br>
 * 新增记事本，记录标题和内容；
 * 修改记事本内容；
